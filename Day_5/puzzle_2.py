@@ -32,6 +32,7 @@ class Map:
 
 
     def fix_list(self,list):
+        pass
 
 
 
